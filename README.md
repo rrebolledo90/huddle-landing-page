@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/Huddle-screenshot.png)
+![](Huddle-screenshot.png)
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/rrebolledo90/huddle-landing-page.git
+- Live Site URL: https://rrebolledo90.github.io/huddle-landing-page/
 
 ## My process
 
