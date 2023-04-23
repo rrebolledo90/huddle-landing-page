@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/rrebolledo90/huddle-landing-page.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/rrebolledo90/huddle-landing-page.git)
+- Live Site URL: (https://rrebolledo90.github.io/huddle-landing-page/)
 
 ## My process
 
