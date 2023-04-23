@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body {
-  background-image: url(images/bg-desktop.svg);
+  background-image: url(bg-desktop.svg);
   background-size: contain;
   height: 100vh;
   background-color: #684bb1;
@@ -62,7 +62,7 @@ button:hover {
 }
 @media screen and (max-width: 600px) {
   body {
-    background-image: url(images/bg-mobile.svg);
+    background-image: url(bg-mobile.svg);
     background-size: contain;
     height: 100vh;
     background-color: hsl(257, 40%, 49%);
